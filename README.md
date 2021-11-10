@@ -33,3 +33,7 @@
 - chapter6.2: 순환 신경망 이해하기
 - chapter6.3: 순환 신경망의 고급 사용법
 - chapter6.4: 컨브넷을 이용한 시퀀스 처리
+
+### 7장
+
+- chapter7.1: Sequential 모델을 넘어서: 케라스의 함수형 API
