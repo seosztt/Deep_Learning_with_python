@@ -45,3 +45,5 @@
 - chapter8.1: LSTM으로 텍스트 생성하기
 - chapter8.2: 딥드림
 - chapter8.3: 뉴럴 스타일 트랜스퍼
+- chapter8.4: 변이형 오토인코더를 사용한 이미지 생성
+- chapter8.5: 적대적 생성 신경망 소개
